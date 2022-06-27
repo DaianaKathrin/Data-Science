@@ -12,3 +12,6 @@ Projetos que fiz para estudar mais a área de Data Science.
         - Árvore de Decisão (Usando sklearn)
         - Random Forest (Usando sklearn)
         - Regressão Logística (Usando sklearn)
+
+### Sistema de Recomendações de Filmes:
+        - Sistema criado do zero
