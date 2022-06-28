@@ -15,3 +15,8 @@ Projetos que fiz para estudar mais a área de Data Science.
 
 ### Sistema de Recomendações de Filmes:
         - Sistema criado do zero
+        
+### Previsão Demissão de Funcionarios (Simulação para departamento de RH):
+        - Regressão Logística (Usando sklearn)
+        - Random Forest (Usando sklearn)
+        - REde Neural (Usando TensorFlow)
